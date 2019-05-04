@@ -1,7 +1,7 @@
 ## Impact Web-Dev Workshop
 
 ### Introduction
-This repository contains all the code that we covered in the workshop. It includes basics of React and how to fetch data from open APIs. We then show that data on the frontend using React components. Make sure to **read through the comments** provided in the code to get a basic understanding of what is happening. All the code you want to care about should inside in the src folder. The files we worked on today are App.js, MealPage.js and MealObject.js
+This repository contains all the code that we covered in the workshop. It includes basics of React and how to fetch data from open APIs. We then show that data on the frontend using React components. Make sure to **read through the comments** provided in the code to get a basic understanding of what is happening. All the code you want to care about should inside in the src folder. The files we worked on today are ***App.js, MealPage.js and MealObject.js***
 
 ### Setup
 You would need a code editor (I recommend VS Code). Other than that make sure to download node.js and postman for dev purposes
